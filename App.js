@@ -16,10 +16,10 @@ import Result from './screens/result';
     
    return (
      <View style={styles.container}>
-       <Home />
+       {/* <Home />
        <Quiz />
-       <Result />
-     </View>
+       <Result /> */}
+     </View>    
      
    );
  };
