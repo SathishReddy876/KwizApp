@@ -16,9 +16,7 @@ import Result from './screens/result';
     
    return (
      <View style={styles.container}>
-       {/* <Home />
-       <Quiz />
-       <Result /> */}
+       <Home />
      </View>    
      
    );
